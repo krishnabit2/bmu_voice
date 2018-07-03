@@ -1,0 +1,50 @@
+[
+  {
+    "id": "7582e3bc-d3b8-40a3-a93b-6a6c6bf17aa1",
+    "data": [
+      {
+        "text": "tell me courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529563231
+  },
+  {
+    "id": "210c9961-40ff-496e-b225-9121b88f076e",
+    "data": [
+      {
+        "text": "tell me about courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529563231
+  },
+  {
+    "id": "19429c09-e81d-408f-ac42-5b4b10a5de0e",
+    "data": [
+      {
+        "text": "carses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529561025
+  },
+  {
+    "id": "6bcb3d9c-872d-4d33-93e1-74fd134de3d9",
+    "data": [
+      {
+        "text": "courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529561025
+  }
+]

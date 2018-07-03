@@ -1,0 +1,50 @@
+[
+  {
+    "id": "d4ae6437-23b0-4ead-bc79-00ce84a21d5b",
+    "data": [
+      {
+        "text": "tell me about som",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529572474
+  },
+  {
+    "id": "64808c3b-d621-47bf-8366-ca15c659429d",
+    "data": [
+      {
+        "text": "tell about management",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529572474
+  },
+  {
+    "id": "15573615-645d-4640-bb96-525241fd2c71",
+    "data": [
+      {
+        "text": "school of management",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529572474
+  },
+  {
+    "id": "e47783d3-9979-440f-9547-d7c90db54425",
+    "data": [
+      {
+        "text": "som",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529572474
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "id": "89c0f309-a752-4292-b24d-ea6836383959",
+  "name": "placements",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "ssml": "\u003cspeak\u003eBMU\u0027s education system has been designed to transorm you into a well rounded, industry ready individual, who is ready to hit the ground ri\u003dunning.\n\u003cbreak time\u003d\"500ms\"/\u003e\nBMU will help uou to connect with potential employers by way of internships,lectures and workshops and live projects at industy promoted Centres ar excellence located on the campus.\n\u003c/speak\u003e",
+          "displayText": "BMU will help uou to connect with potential employers by way of internships,lectures and workshops and live projects at industy promoted Centres ar excellence located on the campu"
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Home"
+            },
+            {
+              "title": "Leave"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530160447,
+  "fallbackIntent": false,
+  "events": []
+}

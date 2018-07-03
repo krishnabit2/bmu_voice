@@ -1,0 +1,52 @@
+{
+  "id": "f79c63af-eef7-401f-a016-eaf606c26d21",
+  "name": "about bmu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "Bml munjal university seeks to transform higher education in india by creating world class and innovative teaching,learning and research environment."
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "BML MUNJAL UNIVERSITY",
+          "formattedText": "Bml munjal university seeks to transform higher education in india by creating world class and innovative teaching,learning and reaearch environment.",
+          "image": {
+            "url": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTGNi8xSPAiLZlCPmRYignBNq6Z4kQZ891Y0QETHve8LkPctB32",
+            "accessibilityText": "a"
+          },
+          "buttons": [
+            {
+              "title": "BMU",
+              "openUrlAction": {
+                "url": "https://www.bml.edu.in/",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530159268,
+  "fallbackIntent": false,
+  "events": []
+}

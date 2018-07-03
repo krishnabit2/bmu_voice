@@ -1,0 +1,49 @@
+{
+  "id": "e5cd30f0-37b4-4e88-abec-097eb594f9f9",
+  "name": "school of economics and commerce",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "ssml": "\u003cspeak\u003e\n    The school of economics and commerce relies on innovative learning methodologies,relevant indian and global business research,strong industry linkages and collaboration with other schools in the university to provide a unique learning experience.\n\u003c/speak\u003e",
+          "displayText": "The school of economics and commerce relies on innovative learning methodologies,relevant indian and global business research,strong industry linkages and collaboration with other schools in the university to provide a unique learning experience."
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Back to Schools"
+            },
+            {
+              "title": "Home"
+            },
+            {
+              "title": "Leave"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530160138,
+  "fallbackIntent": false,
+  "events": []
+}

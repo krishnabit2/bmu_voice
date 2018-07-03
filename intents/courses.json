@@ -1,0 +1,65 @@
+{
+  "id": "9280e030-580c-47bf-8923-2b1313ca8d34",
+  "name": "courses",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "ssml": "\u003cspeak\u003e\n    Here is the list of courses offered by BMU\n    \u003cbreak time\u003d\"500ms\"/\u003e\n    B Tech programme\n    \u003cbreak time\u003d\"500ms\"/\u003e\n    BBA Programme\n    \u003cbreak time\u003d\"500ms\"/\u003e\n    B com Hons programme\n    \u003cbreak time\u003d\"500ms\"/\u003e\n    MBA Programme\n    \u003cbreak time\u003d\"500ms\"/\u003e\n    PHD programme\n\u003c/speak\u003e"
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "B tech programme"
+            },
+            {
+              "title": "BBA programma"
+            },
+            {
+              "title": "B com Hons programme"
+            },
+            {
+              "title": "MBA Programme"
+            },
+            {
+              "title": "PHD programme"
+            },
+            {
+              "title": "Home"
+            },
+            {
+              "title": "Leave"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530159429,
+  "fallbackIntent": false,
+  "events": []
+}

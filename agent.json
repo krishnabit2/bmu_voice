@@ -1,0 +1,76 @@
+{
+  "description": "",
+  "language": "en",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "bmu-bot-cd005",
+    "welcomeIntentSignInRequired": true,
+    "startIntents": [
+      {
+        "intentId": "f79c63af-eef7-401f-a016-eaf606c26d21",
+        "signInRequired": false
+      },
+      {
+        "intentId": "5701e999-b5f0-4601-a4a4-29945faa3b79",
+        "signInRequired": false
+      },
+      {
+        "intentId": "980f0b73-777f-4c43-a6b7-b85b6b51a9c3",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9e5154b9-4b02-4447-a624-d90b7dcf70aa",
+        "signInRequired": false
+      },
+      {
+        "intentId": "95259871-2747-4640-9157-2d396b0a9072",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9280e030-580c-47bf-8923-2b1313ca8d34",
+        "signInRequired": false
+      },
+      {
+        "intentId": "89c0f309-a752-4292-b24d-ea6836383959",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e5cd30f0-37b4-4e88-abec-097eb594f9f9",
+        "signInRequired": false
+      },
+      {
+        "intentId": "038ac1aa-5f6a-477d-9bfb-70c594cf5833",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ccb276df-93ec-4979-9e1e-9b8d15ac4e44",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Asia/Almaty",
+  "webhook": {
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2"
+}

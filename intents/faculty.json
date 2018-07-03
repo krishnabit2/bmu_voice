@@ -1,0 +1,51 @@
+{
+  "id": "95259871-2747-4640-9157-2d396b0a9072",
+  "name": "faculty",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "ssml": "\u003cspeak\u003e\n    Each and every single one\n    of the teachers are a Ph.D\n    from a reputed college in\n    the world.\n    \u003cbreak time\u003d\"500ms\"/\u003e\n    BMU gives a chance to\n    students to play as\n    important a role in making\n    the teachers and teachers\n    play in making a student.\n     \u003c/speak\u003e",
+          "displayText": "BMU gives a chance to\n    students to play as\n    important a role in making\n    the teachers and teachers\n    play in making a student."
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Home"
+            },
+            {
+              "title": "Leave"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530160518,
+  "fallbackIntent": false,
+  "events": []
+}

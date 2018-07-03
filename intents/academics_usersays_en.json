@@ -1,0 +1,50 @@
+[
+  {
+    "id": "b0c96ce7-d2d7-4853-be6d-9f6a4b0432a6",
+    "data": [
+      {
+        "text": "tell me about academics",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529563182
+  },
+  {
+    "id": "50f529aa-3fd0-41a5-b38a-f34781d564ac",
+    "data": [
+      {
+        "text": "tell about academics",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529563182
+  },
+  {
+    "id": "2ab83d45-64ff-4a40-ac95-e46f685ac0cd",
+    "data": [
+      {
+        "text": "academic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529563182
+  },
+  {
+    "id": "b73bda68-7926-4c44-ba14-a0cbe562b2bd",
+    "data": [
+      {
+        "text": "academics",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529563182
+  }
+]

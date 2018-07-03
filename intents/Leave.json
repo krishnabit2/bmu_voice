@@ -1,0 +1,36 @@
+{
+  "id": "139e8c97-220d-4609-a30e-a9a2fd8d08f4",
+  "name": "Leave",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "ssml": "\u003cspeak\u003e\n    Thanks For visiting our profile\n    \u003cbreak time\u003d\"2s\"/\u003e\n    BMU ,From here to the world.\n\u003c/speak\u003e",
+          "displayText": "Thanks for visiting our profile\n    BMU ,From here to the world."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530160753,
+  "fallbackIntent": false,
+  "events": []
+}

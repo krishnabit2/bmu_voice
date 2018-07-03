@@ -1,0 +1,49 @@
+{
+  "id": "ccb276df-93ec-4979-9e1e-9b8d15ac4e44",
+  "name": "som",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "ssml": "\u003cspeak\u003e\n    The school of management at Bml munjal university offers undergraduate,post-graduate and doctoral courses in management.\n    \u003cbreak time \u003d\"500ms\"/\u003e\n    The school has been founded with objective of transforming management education in india by creating a world class teaching and learning environment. \n\u003c/speak\u003e",
+          "displayText": "The school has been founded with objective of transforming management education in india by creating a world class teaching and learning environment."
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Back to Schools"
+            },
+            {
+              "title": "Home"
+            },
+            {
+              "title": "Leave"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530160407,
+  "fallbackIntent": false,
+  "events": []
+}

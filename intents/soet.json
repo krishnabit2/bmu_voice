@@ -1,0 +1,53 @@
+{
+  "id": "038ac1aa-5f6a-477d-9bfb-70c594cf5833",
+  "name": "soet",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "ssml": "\u003cspeak\u003e\n    Founded By the promoters of the hero Group, Bml munjal university is a unique and innovative educational institute which is counted among the best engineering colleges in delhi offering management and engineering courses.\n\u003c/speak\u003e"
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Home"
+            },
+            {
+              "title": "Back to schools"
+            },
+            {
+              "title": "Leave"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530160329,
+  "fallbackIntent": false,
+  "events": []
+}

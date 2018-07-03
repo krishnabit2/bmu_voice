@@ -1,0 +1,75 @@
+{
+  "id": "5701e999-b5f0-4601-a4a4-29945faa3b79",
+  "name": "academics",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "ssml": "\u003cspeak\u003e\n  What do u wanna know\n  \u003cbreak time \u003d\"500ms\"/\u003e\n  schools\n  \u003cbreak time\u003d\"500ms\"/\u003e\n  curriculum\n  \u003cbreak time\u003d\"500ms\"/\u003e\n  faculty \n\u003c/speak\u003e",
+          "displayText": "What do u wanna know"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Academics",
+          "formattedText": "At BMU, the academic structure, curriculum and pedagogy have been designed to break boundaries\nbetween different disciplines, bridge the gap between theory and practice, integrate learning and\nliving and synchronize the classroom with the workplace",
+          "image": {
+            "url": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcR3OGpOULQvvwqRynUJIX6Y2yat_d1mM2Q0uM6xF3OWVN8MEq3y",
+            "accessibilityText": "b"
+          },
+          "buttons": [
+            {
+              "title": "Academics",
+              "openUrlAction": {
+                "url": "https://www.bml.edu.in/academics/pedagogy/",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Schools"
+            },
+            {
+              "title": "Curriculum"
+            },
+            {
+              "title": "Faculty"
+            },
+            {
+              "title": "Home"
+            },
+            {
+              "title": "Leave"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530160240,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "b607f38d-8292-41d4-82cb-609b2d839b48",
+    "data": [
+      {
+        "text": "tell me about faculty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529563358
+  },
+  {
+    "id": "378b4351-169e-4474-a124-2e8c2a1df782",
+    "data": [
+      {
+        "text": "about faculty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529563358
+  },
+  {
+    "id": "4113a72a-b9af-4c8d-91bd-73aca2379b9a",
+    "data": [
+      {
+        "text": "tell about faculty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529563358
+  },
+  {
+    "id": "298c4fd9-e979-4705-a4bc-a8895c38d528",
+    "data": [
+      {
+        "text": "facalty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529559716
+  },
+  {
+    "id": "93310072-b192-4d40-b386-47d2e0d48b2a",
+    "data": [
+      {
+        "text": "faculty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529559716
+  }
+]

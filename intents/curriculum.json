@@ -1,0 +1,51 @@
+{
+  "id": "9e5154b9-4b02-4447-a624-d90b7dcf70aa",
+  "name": "curriculum",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "ssml": "\u003cspeak\u003e\n  In order to closely replicate the workplace experience in a class,BMU has adopted an \u0027outside-in\u0027 approach to curricula planning and design.\n  \u003cbreak time \u003d\"500ms\"/\u003e\n  It has integrated basic academia concepts with industy\u0027s real needs and challenges faced by the world at large.\n\u003c/speak\u003e",
+          "displayText": "In order to closely replicate the workplace experience in a class,BMU has adopted an \u0027outside-in\u0027 approach to curricula planning and design."
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Home"
+            },
+            {
+              "title": "Leave"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530160564,
+  "fallbackIntent": false,
+  "events": []
+}
